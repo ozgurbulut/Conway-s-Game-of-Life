@@ -1,5 +1,5 @@
 
-Program Python 2x sürümleri üzerinde çalışmaktadir. Eğer çalışmıyorsa gerekli komutları aşağıdan yükleyiniz.
+Program Python 2x sürümleri üzerinde çalışmaktadir. Eğer çalışmıyorsa gerekli komutları aşağıdan çağırınız.
 Programın Python 3x de çalışması için gerekli paketlerin yüklenmesi:
 
 sudo apt install python-pip
